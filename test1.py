@@ -4,5 +4,3 @@ cd
 ac
 sdcx
 desfdc
-axz
-xz
